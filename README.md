@@ -13,6 +13,9 @@ Trigger light changes
 Adding Audio Cues:
 - https://dev.epicgames.com/documentation/pl-pl/uefn/adding-audio-to-your-project-in-unreal-editor-for-fortnite
 
+Colour Grading:
+- https://docs.unrealengine.com/5.0/en-US/color-grading-and-the-filmic-tonemapper-in-unreal-engine/
+
 Assets:
 - All visual assets came from Unreal Engine Starter Pack and Quixel Bridge
 - Audio Assets are a self produced recording of the words "Naoise", "Trust", "Trust me", "Come" and "The collision is here"; I added effects through Adobe Premiere, reverb, speed and pitch changes. 
