@@ -1,4 +1,10 @@
-References:
+## CA2_UnrealEngine_Environment
+
+### Video
+Link: https://youtu.be/oX8EpjX5dfY
+
+
+###References:
 
 General guidelines for landscapes:
 - I followed the first couple of chapters from the course: https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/
@@ -18,7 +24,11 @@ Colour Grading:
 
 Assets:
 - All visual assets came from Unreal Engine Starter Pack and Quixel Bridge
-- Audio Assets are a self produced recording of the words "Naoise", "Trust", "Trust me", "Come" and "The collision is here"; I added effects through Adobe Premiere, reverb, speed and pitch changes. 
+- Audio Assets are a self produced recording of the words "Naoise", "Trust", "Trust me", "Come" and "The collision is here"; I added effects through Adobe Premiere, reverb, speed and pitch changes.
+- Font: https://www.dafont.com/nulshock.font
+
+Adding Font:
+- https://www.youtube.com/watch?v=dP1ouCCS758
 
 GameOver Screen
 - https://www.youtube.com/watch?v=ZpQmL_TzSPo
